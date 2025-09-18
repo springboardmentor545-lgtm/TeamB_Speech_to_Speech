@@ -1,0 +1,13 @@
+# Python dependencies for AI Powered Real-Time Speech Translation
+
+# Core Azure SDK for Speech-to-Text and Text-to-Speech
+azure-cognitiveservices-speech
+
+# Azure OpenAI client (for translation and NLP integration)
+azure-ai-openai
+
+# Load environment variables from .env
+python-dotenv
+
+# Optional: REST API calls
+requests
