@@ -75,5 +75,5 @@ By leveraging **Azure OpenAI** and **Azure Speech-to-Text services**, the projec
 ---
 
 ## 📄 Documentation
-- **Milestone Report**: (Docs/milestone1_report.md)
-- **Setup_INSTRUCTIONS**: (Docs/Setup_INSTRUCTIONS.md)
+- [Milestone Report](Docs/Milestone1_Report.md)
+- [Setup_INSTRUCTIONS](Docs/Setup_INSTRUCTIONS.md)
