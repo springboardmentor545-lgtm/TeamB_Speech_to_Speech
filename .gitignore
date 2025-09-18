@@ -1,0 +1,32 @@
+# Environment variables
+.env
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# IDE settings
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Reports or documents
+*.docx
+*.pdf
