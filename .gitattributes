@@ -1,0 +1,13 @@
+# Auto-detect text files and ensure consistent LF line endings
+* text=auto eol=lf
+
+# Treat Python files as text
+*.py text diff=python
+
+# Treat Markdown files as text
+*.md text
+
+# Normalize JSON and YAML files
+*.json text
+*.yml text
+*.yaml text
