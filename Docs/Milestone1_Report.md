@@ -55,8 +55,8 @@ This ensured **smooth execution of the speech recognition pipeline**.
 
 | Language | Accuracy (%) |
 |----------|--------------|
-| English  | ~70%         |
-| Hindi    | ~80%         |
+| English  | ~80% to 90%        |
+| Hindi    | ~70% to 80%        |
 
 ---
 
